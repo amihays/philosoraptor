@@ -1,0 +1,19 @@
+{
+  "name": "philosoraptor",
+  "version": "1.0.0",
+  "description": "A discussion and discovery board for those with a voracious appetite for philosophy.",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "philosoraptor"
+  },
+  "author": "Ami Hays <amihays2@gmail.com>, Tom Angsten <tangst10@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.15.3"
+  }
+}
